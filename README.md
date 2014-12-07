@@ -3,12 +3,15 @@ TaskSucker
 
 TaskSucker is a simple task manager for the Android platform. Create tasks, record video notes, set deadlines and receive notifications about upcoming deadlines.
 
+![Debug Mode](/docs/images/mainscreen.png)
+
 
 # Download
 Download [current version of TaskSucker (v0.1)](https://github.com/jakkub/TaskSucker/releases/tag/v0.1).
 
 # Requirements
 Minimum Android OS version: 3.0 (Honeycomb).
+
 Targeted Android OS version: 4.2 (Jelly Bean).
 
 # Features
