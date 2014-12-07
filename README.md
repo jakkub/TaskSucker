@@ -10,9 +10,9 @@ TaskSucker is a simple task manager for the Android platform. Create tasks, reco
 Download [current version of TaskSucker (v0.1)](https://github.com/jakkub/TaskSucker/releases/tag/v0.1).
 
 # Requirements
-Minimum Android OS version: 3.0 (Honeycomb).
+**Minimum OS version:** Android 3.0 Honeycomb
 
-Targeted Android OS version: 4.2 (Jelly Bean).
+**Target OS version:** Android 4.2 Jelly Bean
 
 # Features
 - Create, edit and review tasks
